@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: '', //TODO: Your GitHub org/user name. (Required)
+    username: 'AkabaneJE', //TODO: Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 4, // How many projects to display.
     exclude: {
@@ -11,18 +11,18 @@ const config = {
     },
   },
   scratch: {
-    username: '', //TODO: Your Scratch username. (Required)
+    username: 'Tymstudent02', //TODO: Your Scratch username. (Required)
     limit: 8, // How many projects to display; maximum 20
     sortBy: 'date', // date | views | remixes
-    corsProxy: "" //TODO: Enter your CORS Proxy here
+    corsProxy: "https://scratchapicors-git-main-jiaen.vercel.app/" //TODO: Enter your CORS Proxy here
   },
   social: { //TODO: Add in Socials
-    linkedin: '',
-    facebook: '',
-    instagram: '',
-    tiktok: '',
-    email: '',
-    website: '',
+    // linkedin: '',
+    // facebook: '',
+    // instagram: '',
+    // tiktok: '',
+    email: 'enjiasasuke@gmail.com',
+    website: 'http://theyoungmaker.com',
     // dev: '',
     // twitter: '',
     // mastodon: '',
@@ -47,8 +47,7 @@ const config = {
     'Git',
     'CSS',
     'MakeCode',
-    'ScratchJr',
-    'Hopscotch',
+    'ScratchJr',,
     'Robotics',
   ],
   experiences: [
@@ -77,16 +76,10 @@ const config = {
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Sengkang Green Primary School',
+      degree: 'Primary School',
+      from: '2018',
+      to: 'current',
     },
   ],
 
