@@ -14,7 +14,7 @@ const config = {
     username: 'Tymstudent02', //TODO: Your Scratch username. (Required)
     limit: 8, // How many projects to display; maximum 20
     sortBy: 'date', // date | views | remixes
-    corsProxy: "https://scratchapicors-git-main-jiaen.vercel.app/" //TODO: Enter your CORS Proxy here
+    corsProxy: "https://scratchapicors-iczoduhaj-jiaen.vercel.app/" //TODO: Enter your CORS Proxy here
   },
   social: { //TODO: Add in Socials
     // linkedin: '',
